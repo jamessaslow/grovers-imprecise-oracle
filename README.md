@@ -13,4 +13,4 @@ In this research project, we obtain solutions to Grover's algorithm with an 'imp
 
 <h2> Results </h2>
 
-We define the range of $\theta$ values where the probability is greater than $0.5$ on the probability distribution function as $\epsilon_{50\%}$
+We define the range of $\theta$ values where the probability is greater than $0.5$ on the probability distribution function as $\epsilon_{0.5}$
