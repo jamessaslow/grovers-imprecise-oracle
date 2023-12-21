@@ -18,4 +18,10 @@ We define the range of $\theta$ values where the probability is greater than $0.
 ![image](https://github.com/jamessaslow/grovers-imprecise-oracle/assets/22723891/fa13c47a-cd7a-4209-874a-93aee41535b4)
 
 
+As we increase the qubit size $n$, the range of useful $\theta$ values $\epsilon_{0.5}$ gets smaller and smaller, indicating that more precise oracles are needed at higher qubit sizes.
+
+We observe $\epsilon_{0.5}$ shrink exponentially according to the results below that depict a log scale of $\epsilon_{0.5}$ as a function of qubit size.
+
+![image](https://github.com/jamessaslow/grovers-imprecise-oracle/assets/22723891/66aaaba6-44a6-4034-a36c-2435431face4)
+
  
