@@ -15,6 +15,7 @@ In this research project, we obtain solutions to Grover's algorithm with an 'imp
 
 We define the range of $\theta$ values where the probability is greater than $0.5$ on the probability distribution function as $\epsilon_{0.5}$ (This is the distance between the 2 purple x's on the graphs below.)
 
-![image](https://github.com/jamessaslow/grovers-imprecise-oracle/assets/22723891/d72450cf-b17d-4157-a635-8e438383d370)
+![Uploading image.png…]()
+
 
  
